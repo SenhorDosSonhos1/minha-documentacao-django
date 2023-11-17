@@ -215,8 +215,8 @@ https://github.com/marinho/aprendendo-django/blob/master/08-trabalhando-com-arqu
 	- Comandos
 		Existem vários comandso que você usará para interagir com migrações e manipulação do banco do Django:
 		
-		* migrate: E responsável por aplicar e cancelar as aplicações de migrações.
-		* makemigrationns: E responsavel por criar novas migrações com base nas alterações feitas em seus modelos.
+		* migrate: Responsável por aplicar e cancelar as aplicações de migrações.
+		* makemigrations: Responsavel por criar novas migrações com base nas alterações feitas em seus modelos.
 		* sqlmigrate: Exibir as intruções SQL para uma migração.
 		* shomigrations lista as migrações de um projeto e seu status.
 
